@@ -1,0 +1,24 @@
+{
+    "author": "sharan",
+    "dependencies": {},
+    "keywords": [],
+    "name": "firstwatchface",
+    "pebble": {
+        "displayName": "FirstWatchFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "33244206-6eb9-4d84-8766-eb877029c74e",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
